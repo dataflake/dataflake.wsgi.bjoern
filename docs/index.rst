@@ -3,7 +3,7 @@
 
 Narrative documentation
 -----------------------
-Narrative documentation explaining how to use :mod:`dataflaks.wsgi.bjoern`.
+Narrative documentation explaining how to use :mod:`dataflake.wsgi.bjoern`.
 
 .. toctree::
     :maxdepth: 2
