@@ -20,7 +20,7 @@ def serve_paste(app, global_conf, **kw):
     Sample .ini configuration:
 
      [server:main]
-     use = egg:bjoern#main
+     use = egg:dataflake.wsgi.bjoern#main
      host = 127.0.0.1
      port = 8080
      reuse_port = True
