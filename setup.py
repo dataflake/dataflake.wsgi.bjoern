@@ -24,7 +24,7 @@ def read(*rnames):
 
 setup(
     name='dataflake.wsgi.bjoern',
-    version='2.1',
+    version='2.2.dev0',
     url='https://github.com/dataflake/dataflake.wsgi.bjoern',
     project_urls={
         'Documentation': 'https://dataflakewsgibjoern.readthedocs.io',
