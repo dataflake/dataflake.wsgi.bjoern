@@ -4,6 +4,8 @@ Changelog
 2.1 (unreleased)
 ----------------
 
+- Add support for Pythn 3.12.
+
 
 2.0 (2023-02-02)
 ----------------
