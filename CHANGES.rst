@@ -4,11 +4,13 @@ Changelog
 2.2 (unreleased)
 ----------------
 
+- Switch to PEP 420 implicit namespace support.
+
 
 2.1 (2023-12-28)
 ----------------
 
-- Add support for Pythn 3.12.
+- Add support for Python 3.12.
 
 
 2.0 (2023-02-02)
